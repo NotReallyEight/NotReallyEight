@@ -11,7 +11,7 @@
 <p>
   <h2 align="center">My Statistics</h2>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
