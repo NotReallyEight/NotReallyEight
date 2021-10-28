@@ -18,6 +18,6 @@
 <p>
   <h2 align="center">My most used languages</h2>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
