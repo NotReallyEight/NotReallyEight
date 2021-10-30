@@ -26,9 +26,13 @@
 </div>
 
 <div align="center">
-  <h1>My / ATN Development's projects</h2>
+  <h1>My projects</h2>
+
+  <h3>Erebus</h3>
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark">
+
+  <h3>ATN ModMail</h3>
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark">
 </div>
