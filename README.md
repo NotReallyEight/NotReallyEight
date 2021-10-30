@@ -22,5 +22,13 @@
 <div align="center">
   <h2>My most used languages</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat&theme=onedark">
+</div>
+
+<div align="center">
+  <h1>My / ATN Development's projects</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark">
 </div>
