@@ -2,22 +2,25 @@
   <h1 align="center">Hello, I'm Eight. <img src="https://raw.githubusercontent.com/NotReallyEight/NotReallyEight/main/pfp.gif" width="40"></img></h1>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/NotReallyEight?color=black&label=GitHub&logo=github&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/NotReallyEight?color=blue&label=Twitter&logo=twitter&style=flat-square) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4LlMiEatuzl-l275W1gWSg?color=red&label=YouTube&logo=youtube&style=flat-square) ![Discord](https://img.shields.io/discord/746291190009430049?color=%235865F2&label=Discord%20Server&logo=discord&style=flat-square)
+<div align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/notreallyeight?color=black&label=GitHub&logo=github&style=flat-square">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/notreallyeight?color=blue&label=Twitter&logo=twitter&style=flat-square">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4LlMiEatuzl-l275W1gWSg?color=red&label=YouTube&logo=youtube&style=flat-square">
+  <img alt="Discord" src="https://img.shields.io/discord/746291190009430049?color=%235865F2&label=Discord&logo=discord&style=flat-square">
+</div>
 
 <p align="center">
   I'm a back-end developer mostly working on Discord's API in TypeScript! I work with Node.JS, JavaScript and TypeScript. Also learning Web Development to make some good web projects in the near future.
 </p>
 
-<p>
-  <h2 align="center">My Statistics</h2>
+<div align="center">
+  <h2>My Statistics</h2>
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark">
+</div>
 
-</p>
+<div align="center">
+  <h2>My most used languages</h2>
 
-<p>
-  <h2 align="center">My most used languages</h2>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat">
+</div>
