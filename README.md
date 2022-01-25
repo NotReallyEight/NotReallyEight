@@ -16,13 +16,15 @@
 <div align="center">
   <h2>My Statistics</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat&theme=onedark">
+
 </div>
 
 <div align="center">
   <h2>My projects</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark">
+
 </div>
 
 <div align="center">
