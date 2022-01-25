@@ -23,7 +23,7 @@
 <div align="center">
   <h2>My projects</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=notreallyeight&repo=techhost-api-wrapper&theme=onedark">
 
 </div>
 
