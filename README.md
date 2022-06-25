@@ -1,41 +1,53 @@
-<p>
-  <h1 align="center">Hello, I'm Eight. <img src="https://raw.githubusercontent.com/NotReallyEight/NotReallyEight/main/pfp.gif" width="40"></h1>
-</p>
+# Hi, I'm NotReallyEight
 
-<div align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/notreallyeight?color=black&label=GitHub&logo=github&style=flat-square">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/notreallyeight?color=blue&label=Twitter&logo=twitter&style=flat-square">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4LlMiEatuzl-l275W1gWSg?color=red&label=YouTube&logo=youtube&style=flat-square">
-  <img alt="Discord" src="https://img.shields.io/discord/746291190009430049?color=%235865F2&label=Discord&logo=discord&style=flat-square">
-</div>
+## About Me
 
-<p align="center">
-  I'm a back-end developer mostly working on Discord's API in TypeScript! I work with Node.JS, JavaScript and TypeScript. Also learning Web Development to make some good web projects in the near future.
-</p>
+Hello, I am NotReallyEight. I am a 15 years old back-end developer mostly working with TypeScript code bases. I am also the CEO of ATN Development (an open source not-for-profit organization) and a developer for TechHost.
 
-<div align="center">
-  <h2>My Statistics</h2>
+## Experiences
 
-<img src="https://github-readme-stats.vercel.app/api?username=NotReallyEight&show_icons=true&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyEight&layout=compat&theme=onedark">
+- **ATN Development, Italy - CEO**
 
-</div>
+  AUGUST 2020 - PRESENT
 
-<div align="center">
-  <h2>My projects</h2>
+  _Open source non-profit company for Discord related projects and much more._
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=erebus&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=atn-development&repo=atn-modmail&theme=onedark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=notreallyeight&repo=techhost-api-wrapper&theme=onedark">
+- **TechHost, UK - Developer**
 
-</div>
+  FEBRUARY 2022 - PRESENT
 
-<div align="center">
-  <h2>About me?</h2>
+  _Quick and reliable hosting._
 
-  <p align="left">
-    <font size="4">
-    <img src="https://raw.githubusercontent.com/NotReallyEight/NotReallyEight/main/pfp.gif" width="25">I'm a 15 years old back-end developer, always trying to improve myself with newer projects.<br>
-    <img src="https://loghi-famosi.com/wp-content/uploads/2021/02/Discord-Logo.png" width="25">I've always worked in terms of Discord's API, and I used only Node.JS, paired with JavaScript or TypeScript (for my recent projects).<br>
-    <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="25">I'm interested in learning new programming languages and maybe even work in front-end!<br>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25">Finally, I'm the owner of a non-profit open source organization, called "ATN Development". If you need help or support for any of the projects from the <a href="https://github.com/ATN-Development">organization</a>, feel free to contact our <a href="mailto: atndevelopment@gmx.com">email</a>.
-    </font>
-  </p>
-</div>
+## Projects
+
+- [**Erebus - Discord API Wrapper**](https://erebus.js.org/)
+
+  From the darkness to you, bring your Discord bot to a next level.
+
+  [_Learn more about Erebus_](https://github.com/ATN-Development/erebus)
+
+- [**ATN Modmail - Discord Modmail Bot**](https://docs.notreallyeight.tk/atn-modmail)
+
+  ATN Modmail is an easy to use Discord Modmail bot! This is also a nice alternative to premade Modmail bots because of the customisable things that you can find!
+
+  [_Learn more about ATN Modmail_](https://github.com/ATN-Development/atn-modmail)
+
+- [**Discorder - REST API**](https://discorder.xyz/)
+
+  A secure Discord logging API.
+
+  [_Learn more about Discorder_](https://discorder.xyz/)
+
+## Skills
+
+- **Languages**
+  - [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript)
+  - [**TypeScript**](https://www.typescriptlang.org/)
+  - [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp)
+  - [**HTML5**](https://en.wikipedia.org/wiki/HTML5)
+  - [**CSS3**](https://en.wikipedia.org/wiki/CSS3)
+- **Frameworks**
+  - [**ExpressJS**](https://expressjs.com/)
+  - [**EJS**](https://ejs.co/)
+  - [**ReactJS**](https://reactjs.org/)
+  - [**Next.JS**](https://nextjs.org/)
