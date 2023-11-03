@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am NotReallyEight. I am a 15 years old back-end developer mostly working with TypeScript code bases. I am also the CEO of ATN Development (an open source not-for-profit organization) and a developer for TechHost.
+Hello, I am NotReallyEight. I am a 17 years old back-end developer mostly working with TypeScript code bases. I am also the CEO of ATN Development (an open source not-for-profit organization) and a developer for TechHost.
 
 ## Experiences
 
@@ -18,19 +18,25 @@ Hello, I am NotReallyEight. I am a 15 years old back-end developer mostly workin
 
   _Quick and reliable hosting._
 
+- **Foodintab, Italy - CTO**
+
+  JULY 2022 - PRESENT
+
+  _An app to find restaurants around you and manage your restaurant._
+
 ## Projects
 
 - [**Erebus - Discord API Wrapper**](https://erebus.js.org/)
 
   From the darkness to you, bring your Discord bot to a next level.
 
-  [_Learn more about Erebus_](https://github.com/ATN-Development/erebus)
+  [_Learn more about Erebus_](https://github.com/ATN-Development/erebus/)
 
-- [**ATN Modmail - Discord Modmail Bot**](https://docs.notreallyeight.tk/atn-modmail)
+- [**ATN Modmail - Discord Modmail Bot**](https://atn-development.gitbook.io/atn-development/atn-modmail/)
 
   ATN Modmail is an easy to use Discord Modmail bot! This is also a nice alternative to premade Modmail bots because of the customisable things that you can find!
 
-  [_Learn more about ATN Modmail_](https://github.com/ATN-Development/atn-modmail)
+  [_Learn more about ATN Modmail_](https://github.com/ATN-Development/atn-modmail/)
 
 - [**Discorder - REST API**](https://discorder.xyz/)
 
@@ -38,16 +44,24 @@ Hello, I am NotReallyEight. I am a 15 years old back-end developer mostly workin
 
   [_Learn more about Discorder_](https://discorder.xyz/)
 
+- [**TechHost API Wrapper**](https://www.npmjs.com/package/techhost-api-wrapper/)
+
+  An open source API wrapper for TechHost API.
+
 ## Skills
 
 - **Languages**
-  - [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript)
+  - [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript/)
   - [**TypeScript**](https://www.typescriptlang.org/)
-  - [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp)
-  - [**HTML5**](https://en.wikipedia.org/wiki/HTML5)
-  - [**CSS3**](https://en.wikipedia.org/wiki/CSS3)
+  - [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [**HTML5**](https://en.wikipedia.org/wiki/HTML5/)
+  - [**CSS3**](https://en.wikipedia.org/wiki/CSS3/)
 - **Frameworks**
   - [**ExpressJS**](https://expressjs.com/)
   - [**EJS**](https://ejs.co/)
   - [**ReactJS**](https://reactjs.org/)
   - [**Next.JS**](https://nextjs.org/)
+  - [**Fastify**](https://fastify.dev/)
+  - [**Node.js**](https://nodejs.org/)
+- **Tools**
+  - [**Git**](https://git-scm.com/)
