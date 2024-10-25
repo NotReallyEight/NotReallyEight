@@ -1,8 +1,8 @@
-# Hi, I'm NotReallyEight
+# Hi, I'm A. Wang
 
 ## About Me
 
-Hello, I am NotReallyEight. I am a 17 years old back-end developer mostly working with TypeScript code bases. I am also the CEO of ATN Development (an open source not-for-profit organization) and a developer for TechHost.
+Hello, I am Antonio Wang. I am a 18 years old back-end developer mostly working on TypeScript codebases.
 
 ## Experiences
 
@@ -10,7 +10,7 @@ Hello, I am NotReallyEight. I am a 17 years old back-end developer mostly workin
 
   AUGUST 2020 - PRESENT
 
-  _Open source non-profit company for Discord related projects and much more._
+  _Open source non-profit organisation for Discord related projects and much more._
 
 - **TechHost, UK - Developer**
 
@@ -20,7 +20,7 @@ Hello, I am NotReallyEight. I am a 17 years old back-end developer mostly workin
 
 - **Foodintab, Italy - CTO**
 
-  JULY 2022 - PRESENT
+  JULY 2022 - SEPTEMBER 2023
 
   _An app to find restaurants around you and manage your restaurant._
 
