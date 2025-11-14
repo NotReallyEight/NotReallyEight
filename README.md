@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am Antonio Wang. I am a 18 years old back-end developer mostly working on TypeScript codebases.
+Hello, I am Antonio Wang. I am a 19 years old back-end developer mostly working on TypeScript codebases.
 
 ## Experiences
 
