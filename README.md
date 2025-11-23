@@ -1,8 +1,10 @@
 # Hi, I'm A. Wang
 
+> Coding by passion, capturing the streets by instinct.
+
 ## About Me
 
-Hello, I am Antonio Wang. I am a 19 years old back-end developer mostly working on TypeScript codebases.
+Hi, I'm Antonio Wang — I write code by day and chase light with a camera by... also day. I'm 19 and obsessed with building things that work and look good. When I'm not coding, I'm probably out framing strangers like characters in a story — freezing time at 1/160th of a second, one shot at a time.
 
 ## Experiences
 
@@ -56,6 +58,7 @@ Hello, I am Antonio Wang. I am a 19 years old back-end developer mostly working 
   - [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/)
   - [**HTML5**](https://en.wikipedia.org/wiki/HTML5/)
   - [**CSS3**](https://en.wikipedia.org/wiki/CSS3/)
+  - [**C**](https://en.wikipedia.org/wiki/C_(programming_language))
 - **Frameworks**
   - [**ExpressJS**](https://expressjs.com/)
   - [**EJS**](https://ejs.co/)
