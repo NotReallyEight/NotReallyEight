@@ -26,7 +26,35 @@ Hi, I'm Antonio Wang — I write code by day and chase light with a camera by...
 
   _An app to find restaurants around you and manage your restaurant._
 
+- **Frame, Italy - Photographer**
+
+  DECEMBER 2024 - PRESENT
+
+  [https://framegroup.it/](https://framegroup.it/)
+
+## Education
+
+- **Linguistics High School** - I.I.S.S. F. De Sanctis
+
+  [https://www.iissdesanctis.edu.it/](https://www.iissdesanctis.edu.it/)
+
+- **Department of Computer Science** - University of Salerno
+
+  [https://www.di.unisa.it/](https://www.di.unisa.it/)
+
 ## Projects
+
+- [**Frame Group Website**](https://framegroup.it/)
+
+  Portfolio website for Frame.
+
+  [_Learn more about Erebus_](https://github.com/NotReallyEight/fotografi-frame-website/)
+
+- [**Personal Portfolio**](https://notreallyeight.dev/)
+
+  Personal portfolio website.
+
+  [_Learn more about Erebus_](https://github.com/NotReallEight/portfolio/)
 
 - [**Erebus - Discord API Wrapper**](https://erebus.js.org/)
 
