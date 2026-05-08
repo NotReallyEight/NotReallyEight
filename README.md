@@ -20,7 +20,7 @@ Hi, I'm Antonio Wang — I write code by day and chase light with a camera by...
 
   _Quick and reliable hosting._
 
-- **Foodintab, Italy - CTO**
+- **Foodintab, Italy - Lead Developer**
 
   JULY 2022 - SEPTEMBER 2023
 
